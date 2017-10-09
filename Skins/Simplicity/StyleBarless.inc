@@ -1,0 +1,1 @@
+[Backing]Meter=IMAGESolidColor=0,0,0,2X=0Y=0W=#WBar2#H=28[StyleLabel]X=0Y=2H=13W=#WBar2#FontColor=#Color1#StringStyle=NORMALFontSize=#Height1#StringAlign=LEFTFontFace=#Font1#AntiAlias=1Text="#Label#"ClipString=1[StyleText]X=8Y=12H=15W=90FontColor=#Color1#StringStyle=NORMALFontSize=#Height2#StringAlign=LEFTFontFace=#Font1#AntiAlias=1ClipString=1

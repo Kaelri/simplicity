@@ -1,0 +1,63 @@
+SIMPLICITY
+v2.0
+by AKH, Kaelri
+
+
+
+-----------------------------------------------------------
+
+- ABOUT
+- HOW TO USE
+- CREDITS
+- LINKS
+
+-----------------------------------------------------------
+
+ABOUT
+
+I am a longtime fan of AKH's Simplicity. The config is still among the top-ten most popular Rainmeter downloads, and is of some historical significance for Rainmeter, being one of the first "suite"-class packages, with multiple skin variants, its own sidebars and borders, and even rudimentary support for varying resolutions. Enigma owes much to Simplicity's design philosophy.
+
+AKH, who had no concrete plans to continue working on Simplicity, has kindly granted me permission to update the skin for Rainmeter 1.0+, add new features, and formally release it under a Creative Commons license. Of course, if he wants his baby back in the future, I'll be happy to let him take over again. In the meantime, I hope I'll manage to bring Simplicity into the modern area while staying true to its roots.
+
+-Kaelri
+
+-----------------------------------------------------------
+
+HOW TO USE
+
+First of all, Simplicity 2.0 requires the most recent Beta version of Rainmeter - revision 223 or higher - which you can download from Google Code (http://code.google.com/p/rainmeter/downloads/list).
+
+Add skins to your desktop by right-clicking Rainmeter - on any skin or the tray icon - and navigating to Configs > Simplicity.
+
+You may want to start with a 'bar' for docking your skins. "Bar," "Sidebar" and "Clockbar" are marked by an underscore ("_") in the folder name. Once you add a bar to your desktop, right-click and set Skin Menu > Position > Bottom to make sure it doesn't overlap your skins.
+
+Finally, you may want to set personal settings for your skins. You can do this by editing the file SKINS\SIMPLICITY\VARIABLES.INC.
+
+You must enter your personal AccuWeather location code to use the Weather skin. You can find your code at (http://www.rainmeter.net/locate_code). You may also need to change the hard drive letters to use HDD, if your letters are not the same as the defaults, which are C, E and F. All other fields are optional.
+
+Some skins have links which will open when the label is clicked. The HDD skins open the corresponding drive letter in Windows Explorer. CPU, Top Process and Uptime all open the Task Manager. Finally, the Weather skin will open your local forecast page on AccuWeather.com.
+
+-----------------------------------------------------------
+
+CREDITS
+
+Simplicity is released under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 License. (http://creativecommons.org/licenses/by-nc-sa/3.0/) In other words, you're free to mod/port it as long as you credit me (and the people below), you don't make money from it, and you share it on the same terms.
+
+Resources used in Simplicity:
+
+- "Simplicity" by DarkPain-AKH [Creative Commons]
+	(http://darkpain-akh.deviantart.com/art/Simplicity-39268503)
+- "chip" by Leuchstoff [Creative Commons]
+	(http://leuchtstoff.deviantart.com/art/chip-70649636)
+
+-----------------------------------------------------------
+
+LINKS
+
+RAINMETER.NET
+http://www.rainmeter.net/
+
+-----------------------------------------------------------
+Email	Kaelri+lcd@gmail.com
+Support	http://www.rainmeter.net/forum/viewtopic.php?f=5&t=777
+Blog	http://kaelri.com
